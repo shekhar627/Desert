@@ -1,0 +1,889 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding-top: 65px;
+}
+.modal-content-custom{
+    height: 200px;
+    width: 100%;
+   
+}
+.modal-content-custom p{
+     text-align: center;
+}
+#modal-check{
+  font-size: 30px;
+  color: #458b00;
+    padding: 10px;
+    border-radius: 30px;
+    border: 1px solid #458b00;
+    margin-top: 20%;
+    margin-left: 40%;
+    
+    
+}
+.link-path{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+#navImage{
+    margin-top: -10px;
+}
+.nav_search{
+    height: 200px;
+    padding: 50px;
+}
+.nav_search button{
+    margin-left: 40%;
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
+
+
+/* ...........................................other css................................. */
+
+.bootom_line{
+    background: black;
+     margin-top: -10px;
+}
+.line_content{
+   
+}
+.line_content ul{list-style: none;}
+.line_content ul li{float: left;}
+.line_content ul li a{padding: 10px; color: white;font-size: 10px;}
+
+/* ...........................................bottom line................................. */
+
+
+.Brand-logo{
+    height: 170px;
+    background: #e6e0e0;
+}
+.Brand-logo img{
+    height: 150px;
+    width: 135px;
+}
+.custom-navbar{
+    border-radius: 0px;
+    border-bottom: 5px solid #7C1844;
+    margin-bottom: 0px;
+    background: rgba(0, 0, 0, 0.83);
+}
+
+
+/* ...........................................end brand logo................................. */
+
+
+
+
+
+
+.feature-pruduct{
+}
+.fature-products{
+    margin-top: 70px;
+    font-family: 'Sedgwick Ave', cursive;
+}
+
+
+
+.product-body{
+    background: #ED3D86;
+   
+}
+.product-body h3{
+    text-align: center;
+    color: black;
+    padding: 10px;
+    
+}
+.product-body h3:hover{
+    background: #7C1844;
+    color: white;
+    transition: 1s;
+}
+.product-body a{
+    text-decoration: none;
+}
+
+
+
+/* product 1*/
+.product-1{
+    height: 250px;
+    border: 1px solid gray;
+    padding: 10px;
+    margin-right: 50px;
+}
+.product-1 img{
+    height: 65%;
+    width: 100%;
+    box-shadow: 7px 6px 5px rgba(155, 152, 152, 0.93);
+}
+
+
+
+/* product 2 */
+.product-2{
+    height: 250px;
+    border: 1px solid gray;
+    padding: 10px;
+    margin-right: 50px;
+}
+.product-2 img{
+    height: 65%;
+    width: 100%;
+    box-shadow: 7px 6px 5px rgba(155, 152, 152, 0.93);
+}
+
+/* product 3 */
+.product-3{
+    height: 250px;
+    border: 1px solid gray;
+    padding: 10px;
+}
+.product-3 img{
+    height: 65%;
+    width: 100%;
+    box-shadow: 7px 6px 5px rgba(155, 152, 152, 0.93);
+}
+
+
+
+/* ...........................................end feature product................................. */
+
+
+
+
+.type{
+    
+}
+
+/* type-1 */
+.type-1{
+    height: 200px;
+    transition: 2s;
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    background: rgba(219, 70, 89, 0.54);
+}
+
+.type-1 a{
+    text-decoration: none;
+    color: black;
+}
+
+
+/* type-2 */
+.type-2{
+    height: 200px;
+    transition: 2s;
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    background: rgba(191, 112, 160, 0.54);
+}
+.type-2 h2{
+    color: white;
+}
+.type-2 a{
+    text-decoration: none;
+   color: white;
+}
+
+
+
+/* type-3 */
+.type-3{
+    height: 200px;
+    transition: 2s;
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    background: rgba(253, 161, 2, 0.54);
+}
+.type-3 h2{
+    
+}
+.type-3 a{
+    text-decoration: none;
+   color: black;
+}
+
+
+
+/* type-4 */
+.type-4{
+    height: 200px;
+    transition: 2s;
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    background: rgba(219, 70, 89, 0.54);
+}
+.type-4 h2{
+    
+}
+.type-4 a{
+    text-decoration: none;
+   color: black;
+}
+
+/* ...........................................end product type................................. */
+
+.product-recommend{
+    height: 650px;
+    
+    
+}
+.product-recommend-high{
+    margin-bottom: 20px;
+}
+.product-recommend-high h3{
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+}
+.rec_product{
+    margin-top: 30px;
+}
+.rec_product_show{
+    height: 450px;
+    width: 70%;
+    
+   
+    
+}
+.rec_product_show table{
+    width: 100%;
+}
+.rec_product_show h4{
+    
+}
+.rec_product_show a{
+    text-decoration: none;
+    color: #808080;
+}
+.rec_product_show a:hover{
+    color: #7C1844;
+}
+.rec_product_show img{
+    height: 75%;
+    width: 100%;
+    box-shadow: 7px 6px 10px rgba(155, 152, 152, 0.99);
+}
+#rec_product_show_id{
+    font-size: 25px;
+}
+
+
+
+/* ...........................................end recommend section................................. */
+
+
+
+.product_details{
+
+}
+.small-image{
+    margin-top: 20px;
+
+}
+.small-image img{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    box-shadow: 7px 6px 10px rgba(155, 152, 152, 0.99);   
+}
+
+.large-image{
+    margin-top: 20px;
+}
+.large-image img{
+    cursor: zoom-in;
+}
+.product_description{
+    margin-top: 20px;
+    height: 500px;
+}
+.product_head{
+    padding: 10px;
+}
+.product_head h3{
+    font-weight: 500;
+
+}
+.product_head h4{
+    font-weight: bold;
+
+}
+.product_head p{
+   font-family: 'Titillium Web', sans-serif;
+    color: #717171; 
+    font-size: 15px;
+}
+.crtBtn{
+    border-radius: 20px;
+    transition: 1s;
+}
+.crtBtn:hover{
+    background: #7C1844;
+    border-radius: 20px;
+    color: white;
+    transition: 1s;
+}
+.social_links{margin-top: 30px;}
+.social_links ul{list-style: none;}
+.social_links ul li{float: left;}
+.social_links ul li a{text-decoration: none;padding: 10px;color: gray;}
+.social_links ul li a:hover{color:#7C1844; }
+
+
+/* ...........................................end product details................................. */
+
+
+.discussion{
+    margin-bottom: 20px;
+}
+.nav > li > a{color: black;}
+.cus_tabPan1{
+   padding: 20px;
+}
+.star-checked{
+    color: #7C1844;
+}
+.customer_review{
+    margin-top: 20px;
+}
+
+fieldset, fieldset label { margin: 0; padding: 0; }
+
+/****** Style Star Rating Widget *****/
+
+.rating { 
+  border: none;
+  float: left;
+}
+
+.rating > input { display: none; } 
+.rating > label:before { 
+  margin: 5px;
+  font-size: 1.25em;
+  font-family: FontAwesome;
+  display: inline-block;
+  content: "\f005";
+}
+
+.rating > .half:before { 
+  content: "\f089";
+  position: absolute;
+}
+
+.rating > label { 
+  color: #ddd; 
+ float: right; 
+}
+
+/***** CSS Magic to Highlight Stars on Hover *****/
+
+.rating > input:checked ~ label, /* show gold star when clicked */
+.rating:not(:checked) > label:hover, /* hover current star */
+.rating:not(:checked) > label:hover ~ label { color: #FFD700;  } /* hover previous stars in list */
+
+.rating > input:checked + label:hover, /* hover current star when changing rating */
+.rating > input:checked ~ label:hover,
+.rating > label:hover ~ input:checked ~ label, /* lighten current selection */
+.rating > input:checked ~ label:hover ~ label { color: #FFED85;  } 
+
+.rvwBtn{
+    border-radius: 20px;
+    transition: 1s;
+}
+.rvwBtn:hover{
+    background: #7C1844;
+    border-radius: 20px;
+    color: white;
+    transition: 1s;
+}
+
+/* ...........................................end discussion................................. */
+
+.category_body{
+    height: 50px;
+    background: #8eb78e;
+    padding: 20px;
+    text-align: center;
+}
+
+/* ...........................................end category section................................. */
+
+.cart{
+   
+}
+.cart_details{
+     margin-top: 20px;
+}
+.cart_details table td{
+    color: #777171;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+}
+#cart_product_delete{
+    font-size: 25px;
+    text-decoration: none;
+    color: darkred;
+}
+.cart_pricing{
+    margin-top: 20px;
+    border: 1px solid gray;
+    height: 500px;
+    font-family: 'Titillium Web', sans-serif;
+    box-shadow: 7px 6px 10px rgba(155, 152, 152, 0.99);
+}
+.cart_pricing table{
+    width: 100%;
+}
+.cart_pricing h3{
+    font-weight: bold;
+    color: #646363;
+}
+.cart_pricing p{
+    border-bottom: 1px dotted gray;
+}
+.utBtn{
+    border-radius: 20px;
+    transition: 1s;
+}
+.utBtn:hover{
+    background: #7C1844;
+    border-radius: 20px;
+    color: white;
+    transition: 1s;
+}
+
+/* ...........................................end cart section................................. */
+
+.all_products{
+   
+   
+}
+.all_products_header_text{
+    margin-bottom: 20px;
+}
+.all_products_header_text h3{
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+}
+.all_product_show{
+    height: 450px; 
+     box-shadow: 7px 6px 10px rgba(155, 152, 152, 0.99);
+     margin-bottom: 30px;
+
+}
+.all_product_show table{
+    width: 100%;
+}
+.all_product_show h4{
+    
+}
+.all_product_show a{
+    text-decoration: none;
+    color: #808080;
+}
+.all_product_show a:hover{
+    color: #7C1844;
+}
+.all_product_show img{
+    height: 75%;
+    width: 100%;
+    box-shadow: 7px 6px 10px rgba(155, 152, 152, 0.99);
+}
+#all_product_show_id{
+    font-size: 25px;
+}
+.load_more{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.load_more a{
+    text-decoration: none;
+    padding: 10px;
+    background: black;
+    color: white;
+    border-radius: 5px;
+}
+.search_by{
+     text-align: center;
+    margin-bottom: 20px;
+}
+/* ...........................................end all products................................. */
+
+/*===========+++++++++++++++++++++++++++++++++++++++++++++++++======================================*/
+/*--'popular products css' copied from recommended product css because they are the same css.--*/
+/*===========+++++++++++++++++++++++++++++++++++++++++++++++++======================================*/
+
+.product-popular{
+    height: 650px;
+    
+    
+}
+.product-popular-high{
+    margin-bottom: 20px;
+}
+.product-popular-high h3{
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+}
+.popular_product{
+    margin-top: 30px;
+}
+.popular_product_show{
+    height: 450px;
+    width: 70%;
+    
+   
+    
+}
+.popular_product_show table{
+    width: 100%;
+}
+.popular_product_show h4{
+    
+}
+.popular_product_show a{
+    text-decoration: none;
+    color: #808080;
+}
+.popular_product_show a:hover{
+    color: #7C1844;
+}
+.popular_product_show img{
+    height: 75%;
+    width: 100%;
+    box-shadow: 7px 6px 10px rgba(155, 152, 152, 0.99);
+}
+#popular_product_show_id{
+    font-size: 25px;
+}
+
+
+
+
+
+/* ...........................................end popular products................................. */
+
+
+
+
+.live_chat{
+    height: 300px;
+    font-family: 'Titillium Web', sans-serif;
+    position: fixed;
+    top: 30%;
+    left: 10%;
+    z-index: 1;
+    color: white;
+    display: none;
+    
+    
+}
+.chat{
+    height: 250px;
+    background: #7C1844;
+    
+}
+.bar{
+    background: black;
+    height: 50px;
+    color: white;
+    padding: 5px;
+}
+.bar a{
+    text-decoration: none;
+    color: red;
+}
+.chat_form{
+    background: #7c1844;
+    height: 50px;
+}
+
+.bar_chat_display{
+    position: fixed;
+    z-index: 1;
+}
+.bar_chat_display a{
+    text-decoration: none;
+    font-size: 40px;
+    color: #7C1844;
+}
+
+
+/*.......................live chat end.......................................*/
+
+.about_us {
+    background: url(./imgs/hero--about--laptop.jpg) no-repeat top center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.about_us_rel {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: black;
+    opacity: .8;
+}
+
+.about_us_header {
+    color: #fff;
+    font-family: 'Titillium Web', sans-serif;
+    padding: 105px 0px;
+}
+
+.about_us_header_h1 {
+}
+
+#about_us_sp1 {
+    color: #7c1844;
+}
+
+.ab_text {
+    padding: 46px;
+    text-align-last: left;
+    line-height: 1.7;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.ab_text p {
+    font-size: 15px;
+    color: #6B6B6B;
+    text-decoration: underline;
+    text-align:justify;
+}
+
+.about_us_content {
+    margin-top: 30px;
+    height: 600px;
+}
+
+.ab_img {
+    margin-top: 20px;
+}
+
+.ab_img img {
+    height: 100%;
+    width: 80%;
+    border-radius: 5px;
+}
+
+/*............................about us end...................................*/
+
+.contact_us {
+    height: 400px;
+    position: relative;
+    background: url(./imgs/hero--contact-us--laptop.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+.contact_us_rel {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: black;
+    opacity: .7;
+}
+
+.contact_us_head {
+    color: #fff;
+   font-family: 'Titillium Web', sans-serif;
+    padding: 0px;
+    margin-top: 9%;
+}
+
+#contact_us_head_sp1 {
+    color: #7c1844;
+}
+
+.contact_us_main_content {
+    height: 600px;
+}
+
+.contact_us_content {
+}
+
+.form_contact {
+}
+
+.form_contact i {
+    color: #7c1844;
+    margin-right: 20px;
+}
+
+.form_content_tale {
+    font-size: 18px;
+    padding: 42px 125px;
+}
+
+.form_content_inp {
+
+}
+
+.form_content_inp input {
+
+}
+
+.form_content_inp textarea {
+
+}
+
+.gmap {
+    margin-top: 140px;
+}
+
+.gmap-container {
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 60%; /* aspect ratio */
+    position: relative;
+}
+
+.googlemap {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+/*....................................contact us end......................................*/
+
+
+.create_account{
+    
+    
+}
+.create_form{
+    padding: 20px;
+    border: 2px solid gray;
+    box-shadow: 20px 20px 20px black;
+}
+.create_form form input{
+    border-radius: 0px;
+}
+
+
+/*....................................create account end......................................*/
+
+.login_account{
+    
+    
+}
+.login_form{
+    padding: 20px;
+    border: 2px solid gray;
+    box-shadow: 20px 20px 20px black;
+}
+.login_form form input{
+    border-radius: 0px;
+}
+
+
+/*....................................login account end......................................*/
+
+
+.footer{
+    height: 150px;
+    background: black;
+    padding: 20px;
+    margin-top: 20px;
+}
+.pay{
+    margin-bottom: 10px;
+}
+.pay img{
+    height: 23px;
+    width: 35px;
+}
+.pay ul{list-style: none;}
+.pay ul li{float: left;}
+
+.footer_content{
+    color: #7A1843;
+    font-family: 'Titillium Web', sans-serif;
+}
+.footer_content_social_link{
+    
+}
+.footer_content_social_link ul{list-style: none;}
+.footer_content_social_link ul li{float: left;}
+.footer_content_social_link ul li a{padding: 10px;text-decoration: none;color: #7A1843;font-size: 20px;}
+.footer_content_social_link ul li a:hover{color: #b11a5b;}
+
+
+
+/*....................................footer end......................................*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn-back-to-top {
+  display: none;
+  position: fixed;
+  width: 40px;
+  height: 38px;
+  bottom: 0px;
+  right: 40px;
+  background-color: #717fe0;
+  opacity: 0.5;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  cursor: pointer;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+}
+
+.symbol-btn-back-to-top {
+  font-size: 25px;
+  color: white;
+  line-height: 1em;
+}
+
+.btn-back-to-top:hover {
+  opacity: 1;
+  background-color: #717fe0;
+}
+
+@media (max-width: 575px) {
+  .btn-back-to-top {
+    bottom: 0px;
+    right: 15px;
+  }
+}
+/* ...........................................end back to top................................. */
+
